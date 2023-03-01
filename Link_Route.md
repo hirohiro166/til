@@ -15,7 +15,8 @@ Route::controller(NewsController::class)->prefix('admin')->name('news.')->group(
 });
 ```
 
-こんな感じでやるんだって(適当)
+こんな感じでやるんだって(適当).
+
 
 ## まあ簡単に
 
